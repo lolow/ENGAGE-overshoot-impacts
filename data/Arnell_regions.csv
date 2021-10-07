@@ -1,0 +1,20 @@
+region,iso3s
+West Africa,"Benin, Burkina Faso, Gambia, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Togo" 
+Central Africa,"Cameroon, Cape Verde, Central African Republic, Chad, Congo, DR Congo, Equatorial Guinea, Gabon, Sao Tome and Principe," 
+East Africa,"Burundi, Djibouti, Ethiopia, Eritrea, Kenya, Rwanda, Somalia, Sudan, South Sudan, Uganda"
+Southern Africa,"Angola, Botswana, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South Africa, Swaziland, Tanzania, Zambia, Zimbabwe"
+North Africa,"Algeria, Libya, Morocco, Western Sahara, Tunisia, Egypt"
+Middle East,"Bahrain, Oman, Saudi Arabia, Qatar, United Arab Emirates, Yemen, Iraq, Israel, Jordan, Kuwait, Lebanon, Occupied Palestinian Terr., Syria, Turkey"
+South Asia,"Afghanistan, Bangladesh, Bhutan, India, Iran, Maldives, Nepal, Pakistan, Sri Lanka"
+South East Asia,"Brunei, Cambodia, East Timor, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam"
+East Asia,"China, Japan, Rep. of Korea, North Korea, Mongolia, Taiwan"
+Central Asia,"Kazakhstan, Kyrgyz Rep., Tajikistan, Turkmenistan, Uzbekistan"
+Australasia,"Australia, New Zealand, Papua New Guinea"
+Western Europe,"Andorra, Austria, Belgium, Denmark, Finland, France, Germany, Greece, Iceland, Ireland, Italy, Liechtenstein, Luxembourg, Malta, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, UK"
+Central Europe,"Albania, Bosnia-Herzegovina, Bulgaria, Croatia, Cyprus, Czech Rep., Estonia, Hungary, Latvia, Lithuania, Poland, Romania, Slovakia, Slovenia, Macedonia, Montenegro, Serbia"
+Eastern Europe,"Azerbaijan, Armenia, Belarus, Georgia, Moldova, Russia, Ukraine"
+Canada,Canada
+USA,USA
+Central America,"Belize, Costa Rica, Cuba, El Salvador, Guatemala, Honduras, Nicaragua, Mexico, Panama"
+Brazil,Brazil
+"Rest of south America","Argentina, Bolivia, Chile, Colombia, Ecuador, French Guiana, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela"

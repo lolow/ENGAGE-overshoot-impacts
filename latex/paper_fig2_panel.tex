@@ -1,0 +1,25 @@
+\documentclass[crop,tikz]{standalone}% 'crop' is the default for v1.0, before it was 'preview'
+\usepackage{tikz}
+%\usetikzlibrary{...}% tikz package already loaded by 'tikz' option
+\usepackage[scaled=0.92]{helvet}                       % load Helvetica font
+\usepackage[final]{pdfpages}
+\renewcommand*\familydefault{\sfdefault}              % Helvetica font for main text
+\newcommand{\degrees}{\ensuremath{^\circ}}
+\begin{document}
+\begin{tikzpicture}
+
+  \node at (-0.25,0.5) {\includegraphics[width=16cm]{"../results/paper_fig2c.pdf"}};
+  \node at (-4,6.75) {\includegraphics[width=8cm]{"../results/paper_fig2a.pdf"}};
+  \node at (3.25,6.9) {\includegraphics[width=6cm]{../results/paper_fig2b.pdf}};
+
+  
+  \node at (-4.5,9.25) {\footnotesize Heatwave duration};
+
+  
+  \node[right] at (-8,4) {c)};
+  \node[right] at (-8,9.3) {a)};
+  \node[right] at (0,9.3) {b)};
+
+  
+\end{tikzpicture}
+\end{document}
