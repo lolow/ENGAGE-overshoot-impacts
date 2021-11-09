@@ -196,26 +196,7 @@ ic5models <- c("bcccs1","cccma2","ccsm4_","cesm1c","cmcccm","cnrmc5",
                "csibom","csiro6","fgoals","gfdlc3","gfdles","gisseh",
                "gisser","hadgcc","hadgem","inmcm4","ipsllr","ipslmr",
                "miroc5","miroce","mpiesr","mricm3","noresm")
-
-if (Sys.info()[["nodename"]] %in% c("spleen")) {
-  ic5models <- c("bcccs1","cccma2","ccsm4_","cesm1c","cmcccm","cnrmc5")
-}
-
-nbsw <- 1e3
-if (Sys.info()[["nodename"]] %in% c("spleen")) {
-  nbsw <- 10
-}
-
-nbsw_raw <- 333
-if (Sys.info()[["nodename"]] %in% c("spleen")) {
-  nbsw_raw <- 10
-}
-
-nbsw_stat <- 333
-if (Sys.info()[["nodename"]] %in% c("spleen")) {
-  nbsw_stat <- 10
-}
-               
+             
 arnell_region_iso3 <- read_fst('data/arnell_region_iso3.fst', as.data.table = T)
 
 read_data_arnell2019cc <- function() {
