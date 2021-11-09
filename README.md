@@ -1,7 +1,9 @@
 # ENGAGE - impacts and overshoot of net-zero scenarios
 
 This repository is released under the Apache License 2.0;
-see the [LICENSE](LICENSE) for details. Copyright 2021, the authors: Laurent Drouet, Simone Padoan.
+see the [LICENSE](LICENSE) for details. 
+
+Copyright 2021 Laurent Drouet, Simone Padoan.
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
