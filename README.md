@@ -52,6 +52,6 @@ For any questions, please ask laurent.drouet [at] eiee.org.
 
 ## Funding acknowledgement
 
-<img src="./_static/EU-logo.jpg" width="80" height="54" align="left" alt="EU logo" />
+<img src="./data/Flag_of_Europe.svg.png" width="80" height="54" align="left" alt="EU logo" />
 This project has received funding from the European Union’s Horizon 2020 research
 and innovation programme under grant agreement No. 821471 (ENGAGE).
