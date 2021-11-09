@@ -1,4 +1,4 @@
-# ENGAGE - impacts and overshoot of net-zero scenarios
+# ENGAGE - Impacts and overshoot of net-zero scenarios
 
 This repository is released under the Apache License 2.0;
 see the [LICENSE](LICENSE) for details. 
